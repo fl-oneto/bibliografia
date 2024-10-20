@@ -1,35 +1,261 @@
 [
+    [
+    [
     {
-      "title": "Cien años de soledad",
-      "author": "Gabriel García Márquez",
-      "edition": "Primera",
-      "category": "Matemáticas"
+        "title": "Introducción a los Algoritmos",
+        "author": "Thomas H. Cormen",
+        "category": "Programación",
+        "year": 2009,
+        "publisher": "MIT Press"
     },
     {
-      "title": "Don Quijote de la Mancha",
-      "author": "Miguel de Cervantes",
-      "edition": "Segunda",
-      "category": "Ciencias"
-    },
-
-    {
-        "title": "1984",
-        "author": "George Orwell",
-        "edition": "Tercera",
-        "category": "Literatura"
+        "title": "Código Limpio: Manual de Artesanía de Software Ágil",
+        "author": "Robert C. Martin",
+        "category": "Programación",
+        "year": 2008,
+        "publisher": "Prentice Hall"
     },
     {
-        "title": "El principito",
-        "author": "Antoine de Saint-Exupéry",
-        "edition": "Cuarta",
-        "category": "Ficción"
+        "title": "El Programador Pragmatico: Tu Viaje Hacia la Maestría",
+        "author": "Andrew Hunt y David Thomas",
+        "category": "Programación",
+        "year": 1999,
+        "publisher": "Addison-Wesley"
     },
     {
-        "title": "La Odisea",
-        "author": "Homero",
-        "edition": "Primera",
-        "category": "Clásico"
+        "title": "Matemáticas: Una Muy Breve Introducción",
+        "author": "Timothy Gowers",
+        "category": "Matemáticas",
+        "year": 2002,
+        "publisher": "Oxford University Press"
+    },
+    {
+        "title": "Cálculo",
+        "author": "James Stewart",
+        "category": "Matemáticas",
+        "year": 2015,
+        "publisher": "Cengage Learning"
+    },
+    {
+        "title": "Álgebra Lineal y sus Aplicaciones",
+        "author": "David C. Lay",
+        "category": "Matemáticas",
+        "year": 2016,
+        "publisher": "Pearson"
+    },
+    {
+        "title": "Física para Científicos e Ingenieros",
+        "author": "Douglas C. Giancoli",
+        "category": "Física",
+        "year": 2013,
+        "publisher": "Pearson"
+    },
+    {
+        "title": "Conceptos de Física Moderna",
+        "author": "Arthur Beiser",
+        "category": "Física",
+        "year": 2017,
+        "publisher": "McGraw-Hill Education"
+    },
+    {
+        "title": "Las Lecciones de Feynman sobre Física",
+        "author": "Richard P. Feynman",
+        "category": "Física",
+        "year": 1964,
+        "publisher": "Basic Books"
+    },
+    {
+        "title": "Introducción a la Psicología",
+        "author": "James W. Kalat",
+        "category": "Psicología",
+        "year": 2017,
+        "publisher": "Cengage Learning"
+    },
+    {
+        "title": "El Libro de la Psicología",
+        "author": "Robert M. Sapolsky",
+        "category": "Psicología",
+        "year": 2011,
+        "publisher": "DK"
+    },
+    {
+        "title": "Pensar, Rápido y Despacio",
+        "author": "Daniel Kahneman",
+        "category": "Psicología",
+        "year": 2011,
+        "publisher": "Farrar, Straus and Giroux"
+    },
+    {
+        "title": "La Estructura de las Revoluciones Científicas",
+        "author": "Thomas S. Kuhn",
+        "category": "Filosofía de la Ciencia",
+        "year": 1962,
+        "publisher": "University of Chicago Press"
+    },
+    {
+        "title": "La Ciencia como una Forma de Conocer",
+        "author": "Robert M. Hazen",
+        "category": "Filosofía de la Ciencia",
+        "year": 2011,
+        "publisher": "Cengage Learning"
+    },
+    {
+        "title": "La Ilusión de Dios",
+        "author": "Richard Dawkins",
+        "category": "Filosofía",
+        "year": 2006,
+        "publisher": "Bantam Press"
+    },
+    {
+        "title": "Una Breve Historia del Tiempo",
+        "author": "Stephen Hawking",
+        "category": "Física",
+        "year": 1988,
+        "publisher": "Bantam Books"
+    },
+    {
+        "title": "El Gen Egoísta",
+        "author": "Richard Dawkins",
+        "category": "Biología",
+        "year": 1976,
+        "publisher": "Oxford University Press"
+    },
+    {
+        "title": "Biología Molecular de la Célula",
+        "author": "Bruce Alberts",
+        "category": "Biología",
+        "year": 2015,
+        "publisher": "Garland Science"
+    },
+    {
+        "title": "Introducción a la Teoría de la Computación",
+        "author": "Michael Sipser",
+        "category": "Ciencias de la Computación",
+        "year": 2012,
+        "publisher": "Cengage Learning"
+    },
+    {
+        "title": "Inteligencia Artificial: Un Enfoque Moderno",
+        "author": "Stuart Russell y Peter Norvig",
+        "category": "Inteligencia Artificial",
+        "year": 2016,
+        "publisher": "Pearson"
+    },
+    {
+        "title": "Redes de Computadoras: Un Enfoque de Arriba Hacia Abajo",
+        "author": "James Kurose y Keith Ross",
+        "category": "Ciencias de la Computación",
+        "year": 2017,
+        "publisher": "Pearson"
+    },
+    {
+        "title": "Matemáticas Discretas y sus Aplicaciones",
+        "author": "Kenneth H. Rosen",
+        "category": "Matemáticas",
+        "year": 2011,
+        "publisher": "McGraw-Hill Education"
+    },
+    {
+        "title": "Introducción a la Probabilidad",
+        "author": "Dimitri P. Bertsekas",
+        "category": "Matemáticas",
+        "year": 2008,
+        "publisher": "Athena Scientific"
+    },
+    {
+        "title": "Probabilidad y Estadística",
+        "author": "Morris H. DeGroot",
+        "category": "Matemáticas",
+        "year": 2012,
+        "publisher": "Addison-Wesley"
+    },
+    {
+        "title": "Estructuras de Datos y Algoritmos en Java",
+        "author": "Robert Lafore",
+        "category": "Programación",
+        "year": 2002,
+        "publisher": "Sams Publishing"
+    },
+    {
+        "title": "JavaScript: Las Buenas Partes",
+        "author": "Douglas Crockford",
+        "category": "Programación",
+        "year": 2008,
+        "publisher": "O'Reilly Media"
+    },
+    {
+        "title": "Curso de Python: Introducción Práctica y Basada en Proyectos a la Programación",
+        "author": "Eric Matthes",
+        "category": "Programación",
+        "year": 2019,
+        "publisher": "No Starch Press"
+    },
+    {
+        "title": "El Arte de Programar Computadoras",
+        "author": "Donald E. Knuth",
+        "category": "Programación",
+        "year": 1997,
+        "publisher": "Addison-Wesley"
+    },
+    {
+        "title": "Algoritmos Desbloqueados",
+        "author": "Thomas H. Cormen",
+        "category": "Ciencias de la Computación",
+        "year": 2013,
+        "publisher": "MIT Press"
+    },
+    {
+        "title": "El Diseño de las Cosas Cotidianas",
+        "author": "Don Norman",
+        "category": "Diseño",
+        "year": 2013,
+        "publisher": "Basic Books"
+    },
+    {
+        "title": "Elementos del Aprendizaje Estadístico",
+        "author": "Trevor Hastie, Robert Tibshirani, Jerome Friedman",
+        "category": "Estadística",
+        "year": 2009,
+        "publisher": "Springer"
+    },
+    {
+        "title": "Estadística para Ciencia de Datos",
+        "author": "James D. Miller",
+        "category": "Estadística",
+        "year": 2018,
+        "publisher": "O'Reilly Media"
+    },
+    {
+        "title": "Aprendizaje Profundo",
+        "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+        "category": "Inteligencia Artificial",
+        "year": 2016,
+        "publisher": "MIT Press"
+    },
+    {
+        "title": "Aprendiendo Automático en el Tiempo",
+        "author": "Andrew Ng",
+        "category": "Inteligencia Artificial",
+        "year": 2018,
+        "publisher": "Auto-publicado"
+    },
+    {
+        "title": "Procesamiento de Lenguaje Natural con Python",
+        "author": "Steven Bird, Ewan Klein, Edward Loper",
+        "category": "Inteligencia Artificial",
+        "year": 2009,
+        "publisher": "O'Reilly Media"
+    },
+    {
+        "title": "Visión por Computadora: Algoritmos y Aplicaciones",
+        "author": "Richard Szeliski",
+        "category": "Visión por Computadora",
+        "year": 2010,
+        "publisher": "Springer"
+   
     }
+]
+
 
   ]
   
